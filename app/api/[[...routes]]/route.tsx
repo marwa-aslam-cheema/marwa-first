@@ -1,5 +1,5 @@
 /** @jsxImportSource frog/jsx */
-
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import { color } from '@coinbase/onchainkit/theme'
 import { Button, Frog, TextInput } from 'frog'
 import { devtools } from 'frog/dev'
